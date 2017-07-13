@@ -1,6 +1,9 @@
 # Rome-Box ~ Custom Ubuntu/Xenial 16.04.2 LTS Vagrant Box
 
 ## Quick Start
+
+To start with you'll need [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and [Vagrant](https://www.vagrantup.com/downloads.html), afterwards:
+
 ```
 git clone https://github.com/Romerski/rome-box rome-box
 cd rome-box
